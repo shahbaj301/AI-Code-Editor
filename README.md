@@ -55,4 +55,4 @@ This project is licensed under the **MIT License** — feel free to use and modi
 
 ---
 
-**Crafted with ❤️ by [Shahbaz Ahmad]([https://github.com/shahba](https://github.com/shahba)
+**Crafted with ❤️ by [Shahbaz Ahmad]([https://github.com/shahba](https://github.com/shahbaj301)
